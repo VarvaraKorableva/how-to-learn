@@ -1,0 +1,18 @@
+.footer__column-link {
+  display: flex;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+.footer__column-link:last-of-type {
+  margin-bottom: 0;
+}
+
+.footer__column-link:first-of-type {
+  margin-top: 0;
+}
+
