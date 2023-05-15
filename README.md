@@ -1,4 +1,2 @@
 
-Научиться учиться.
-Информационный одностраничный сайт.
-Применяются технологии выравнивания.
+# Learn to learn. Informational one-page site. Alignment technologies are applied.
